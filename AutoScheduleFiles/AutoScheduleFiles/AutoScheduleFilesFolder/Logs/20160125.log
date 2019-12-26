@@ -1,0 +1,154 @@
+2016-01-26 14:46:20,529 CopyFileClass.py[line:105] INFO 日期 20160125 任务开始
+2016-01-26 14:46:23,278 CopyFileClass.py[line:109] INFO Scheme01 任务开始
+2016-01-26 14:46:32,244 CopyFileClass.py[line:113] INFO Scheme01 任务 本地保存路径 
+2016-01-26 14:46:35,661 CopyFileClass.py[line:120] INFO Scheme01 SourceFtp任务开始
+2016-01-26 14:46:37,591 CopyFileClass.py[line:125] INFO Scheme01 SourceFtp FTP 文件名 20160125.zip
+2016-01-26 14:46:38,590 CopyFileClass.py[line:127] INFO Scheme01 SourceFtp 初始化FTP连接
+2016-01-26 14:46:40,063 CopyFileClass.py[line:130] INFO Scheme01 SourceFtp 登陆FTP
+2016-01-26 14:46:41,917 CopyFileClass.py[line:132] INFO Scheme01 SourceFtp 获取FTP目录信息
+2016-01-26 14:46:45,400 CopyFileClass.py[line:135] INFO Scheme01 SourceFtp FTP目录信息 <LanymyPythonPackages.FtpClass.FtpDirInfo object at 0x03F9EFD0>
+2016-01-26 14:46:46,917 CopyFileClass.py[line:138] INFO Scheme01 SourceFtp FTP上查找文件 20160125.zip
+2016-01-26 14:46:57,436 CopyFileClass.py[line:143] INFO Scheme01 SourceFtp FTP上找到文件 20160125.zip
+2016-01-26 14:47:01,849 CopyFileClass.py[line:151] INFO Scheme01 SourceFtp 开始下载文件 本地文件 \20160125\ftp.20160125.zip FTP文件 ./deals\20160125.zip
+2016-01-26 14:47:04,107 CopyFileClass.py[line:154] INFO Scheme01 SourceFtp 文件下载完毕
+2016-01-26 14:47:05,794 CopyFileClass.py[line:164] INFO Scheme01 SourceFtp 任务成功执行完毕
+2016-01-26 14:47:07,582 CopyFileClass.py[line:184] INFO Scheme01 SourceFtp任务结束
+2016-01-26 14:47:09,673 CopyFileClass.py[line:197] INFO Scheme01 SourceMailImap 任务开始
+2016-01-26 14:47:11,412 CopyFileClass.py[line:202] INFO Scheme01 SourceMailImap 邮件日期匹配 名称 20160125
+2016-01-26 14:47:11,987 CopyFileClass.py[line:204] INFO Scheme01 SourceMailImap 初始化 SourceMailImap
+2016-01-26 14:47:14,255 CopyFileClass.py[line:208] INFO Scheme01 SourceMailImap 获取邮件摘要
+2016-01-26 14:47:39,346 CopyFileClass.py[line:210] INFO Scheme01 SourceMailImap 获取到的邮件摘要 信息 [<LanymyPythonPackages.EmailFunctions.MailDigest object at 0x03FB9430>, <LanymyPythonPackages.EmailFunctions.MailDigest object at 0x03FB9610>, <LanymyPythonPackages.EmailFunctions.MailDigest object at 0x03FCD930>, <LanymyPythonPackages.EmailFunctions.MailDigest object at 0x03FB9390>, <LanymyPythonPackages.EmailFunctions.MailDigest object at 0x03FB9450>, <LanymyPythonPackages.EmailFunctions.MailDigest object at 0x03FCDAF0>, <LanymyPythonPackages.EmailFunctions.MailDigest object at 0x03FCDAD0>, <LanymyPythonPackages.EmailFunctions.MailDigest object at 0x03FCD890>, <LanymyPythonPackages.EmailFunctions.MailDigest object at 0x03FCDE70>, <LanymyPythonPackages.EmailFunctions.MailDigest object at 0x03FDD9B0>]
+2016-01-26 14:48:01,571 CopyFileClass.py[line:221] INFO Scheme01 SourceMailImap 符合条件的 邮件 摘要信息 [<LanymyPythonPackages.EmailFunctions.MailDigest object at 0x03FB9610>]
+2016-01-26 14:48:03,201 CopyFileClass.py[line:226] INFO Scheme01 SourceMailImap 下载邮件 <LanymyPythonPackages.EmailFunctions.MailDigest object at 0x03FB9610>
+2016-01-26 14:48:08,723 CopyFileClass.py[line:238] INFO Scheme01 SourceMailImap 任务成功执行完毕
+2016-01-26 14:48:12,165 CopyFileClass.py[line:256] INFO Scheme01 SourceMailImap 任务结束
+2016-01-26 14:48:14,104 CopyFileClass.py[line:268] INFO Scheme01 TargetFtp 任务开始
+2016-01-26 14:48:15,692 CopyFileClass.py[line:274] INFO Scheme01 TargetFtp 上传文件名 关键字 20160125
+2016-01-26 14:48:16,284 CopyFileClass.py[line:276] INFO Scheme01 TargetFtp 初始化 TargetFtp
+2016-01-26 14:48:35,636 CopyFileClass.py[line:294] INFO Scheme01 TargetFtp 登陆FTP
+2016-01-26 14:48:40,754 CopyFileClass.py[line:307] INFO Scheme01 TargetFtp 上传本地文件 \20160125\ftp.20160125.zip FTP远程目录 ./deals/dirtest/ FTP远程目录的文件ftp.20160125.zip
+2016-01-26 14:48:43,632 CopyFileClass.py[line:307] INFO Scheme01 TargetFtp 上传本地文件 \20160125\mail[115].attach.20160125.RAR FTP远程目录 ./deals/dirtest/ FTP远程目录的文件mail[115].attach.20160125.RAR
+2016-01-26 14:48:49,098 CopyFileClass.py[line:315] INFO Scheme01 TargetFtp 任务成功执行完毕
+2016-01-26 14:48:59,440 CopyFileClass.py[line:336] INFO Scheme01 TargetFtp 任务结束
+2016-01-26 14:49:00,993 CopyFileClass.py[line:349] INFO Scheme01 SendMailSmtp 任务开始
+2016-01-26 14:49:55,453 CopyFileClass.py[line:358] INFO Scheme01 SendMailSmtp 发送邮件标题 [ Auto Schedule Files Python Service 日期 20160125 的执行任务报告 ] 内容 [ Scheme01 SourceFtp 任务成功执行完毕
+
+ Scheme01 SourceMailImap 任务成功执行完毕
+
+ Scheme01 TargetFtp 任务成功执行完毕
+
+  ] 发送给 [ [''] ]
+2016-01-26 14:49:55,655 CopyFileClass.py[line:360] INFO Scheme01 SendMailSmtp 初始化 SendMailSmtp
+2016-01-26 14:49:59,901 CopyFileClass.py[line:373] INFO Scheme01 SendMailSmtp 任务成功执行完毕
+2016-01-26 14:50:00,784 CopyFileClass.py[line:381] INFO Scheme01 TargetFtp 任务结束
+2016-01-26 14:50:01,815 CopyFileClass.py[line:397] INFO Scheme01 任务结束
+2016-01-26 14:50:04,055 CopyFileClass.py[line:401] INFO 本次任务执行完毕
+2016-01-26 15:56:15,144 CopyFileClass.py[line:105] INFO 日期 20160125 任务开始
+2016-01-26 15:56:15,911 CopyFileClass.py[line:109] INFO Scheme01 任务开始
+2016-01-26 15:56:16,875 CopyFileClass.py[line:113] INFO Scheme01 任务 本地保存路径 
+2016-01-26 15:56:18,168 CopyFileClass.py[line:120] INFO Scheme01 SourceFtp任务开始
+2016-01-26 15:56:19,735 CopyFileClass.py[line:125] INFO Scheme01 SourceFtp FTP 文件名 20160125.zip
+2016-01-26 15:56:20,407 CopyFileClass.py[line:127] INFO Scheme01 SourceFtp 初始化FTP连接
+2016-01-26 15:56:22,468 CopyFileClass.py[line:131] INFO Scheme01 SourceFtp 登陆FTP
+2016-01-26 15:56:23,517 CopyFileClass.py[line:133] INFO Scheme01 SourceFtp 获取FTP目录信息
+2016-01-26 15:56:25,647 CopyFileClass.py[line:138] INFO Scheme01 SourceFtp FTP目录信息 目录 [ ./deals ]  文件夹 [ ['dirtest'] ] 文件 [ ['20160118.zip', '20160119.zip', '20160120.zip', '20160121.zip', '20160122.zip', '20160124.zip', '20160125.zip'] ]
+2016-01-26 15:56:26,505 CopyFileClass.py[line:141] INFO Scheme01 SourceFtp FTP上查找文件 20160125.zip
+2016-01-26 15:56:32,656 CopyFileClass.py[line:146] INFO Scheme01 SourceFtp FTP上找到文件 20160125.zip
+2016-01-26 15:56:35,591 CopyFileClass.py[line:154] INFO Scheme01 SourceFtp 开始下载文件 本地文件 \20160125\ftp.20160125.zip FTP文件 ./deals\20160125.zip
+2016-01-26 15:56:37,409 CopyFileClass.py[line:157] INFO Scheme01 SourceFtp 文件下载完毕
+2016-01-26 15:56:40,379 CopyFileClass.py[line:167] INFO Scheme01 SourceFtp 任务成功执行完毕
+2016-01-26 15:56:42,862 CopyFileClass.py[line:188] INFO Scheme01 SourceFtp任务结束
+2016-01-26 15:56:44,019 CopyFileClass.py[line:201] INFO Scheme01 SourceMailImap 任务开始
+2016-01-26 15:56:45,646 CopyFileClass.py[line:208] INFO Scheme01 SourceMailImap 邮件日期匹配 名称 20160125
+2016-01-26 15:56:46,490 CopyFileClass.py[line:211] INFO Scheme01 SourceMailImap 初始化 SourceMailImap
+2016-01-26 15:56:49,260 CopyFileClass.py[line:217] INFO Scheme01 SourceMailImap 获取邮件摘要
+2016-01-26 15:57:25,731 CopyFileClass.py[line:105] INFO 日期 20160125 任务开始
+2016-01-26 15:57:26,391 CopyFileClass.py[line:109] INFO Scheme01 任务开始
+2016-01-26 15:57:27,236 CopyFileClass.py[line:113] INFO Scheme01 任务 本地保存路径 
+2016-01-26 15:57:28,309 CopyFileClass.py[line:120] INFO Scheme01 SourceFtp任务开始
+2016-01-26 15:57:29,391 CopyFileClass.py[line:125] INFO Scheme01 SourceFtp FTP 文件名 20160125.zip
+2016-01-26 15:57:30,223 CopyFileClass.py[line:127] INFO Scheme01 SourceFtp 初始化FTP连接
+2016-01-26 15:57:31,973 CopyFileClass.py[line:131] INFO Scheme01 SourceFtp 登陆FTP
+2016-01-26 15:57:33,135 CopyFileClass.py[line:133] INFO Scheme01 SourceFtp 获取FTP目录信息
+2016-01-26 15:57:34,901 CopyFileClass.py[line:138] INFO Scheme01 SourceFtp FTP目录信息 目录 [ ./deals ]  文件夹 [ ['dirtest'] ] 文件 [ ['20160118.zip', '20160119.zip', '20160120.zip', '20160121.zip', '20160122.zip', '20160124.zip', '20160125.zip'] ]
+2016-01-26 15:57:35,814 CopyFileClass.py[line:141] INFO Scheme01 SourceFtp FTP上查找文件 20160125.zip
+2016-01-26 15:57:41,614 CopyFileClass.py[line:146] INFO Scheme01 SourceFtp FTP上找到文件 20160125.zip
+2016-01-26 15:57:44,912 CopyFileClass.py[line:154] INFO Scheme01 SourceFtp 开始下载文件 本地文件 \20160125\ftp.20160125.zip FTP文件 ./deals\20160125.zip
+2016-01-26 15:57:45,894 CopyFileClass.py[line:157] INFO Scheme01 SourceFtp 文件下载完毕
+2016-01-26 15:57:48,272 CopyFileClass.py[line:167] INFO Scheme01 SourceFtp 任务成功执行完毕
+2016-01-26 15:57:50,926 CopyFileClass.py[line:188] INFO Scheme01 SourceFtp任务结束
+2016-01-26 15:57:52,778 CopyFileClass.py[line:201] INFO Scheme01 SourceMailImap 任务开始
+2016-01-26 15:57:54,443 CopyFileClass.py[line:208] INFO Scheme01 SourceMailImap 邮件日期匹配 名称 20160125
+2016-01-26 15:57:55,493 CopyFileClass.py[line:211] INFO Scheme01 SourceMailImap 初始化 SourceMailImap
+2016-01-26 15:57:58,877 CopyFileClass.py[line:217] INFO Scheme01 SourceMailImap 获取邮件摘要
+2016-01-26 15:58:22,423 CopyFileClass.py[line:221] INFO Scheme01 SourceMailImap 获取到的邮件摘要 信息 [<LanymyPythonPackages.EmailFunctions.MailDigest object at 0x03E29430>, <LanymyPythonPackages.EmailFunctions.MailDigest object at 0x03E29570>, <LanymyPythonPackages.EmailFunctions.MailDigest object at 0x03E4AB50>, <LanymyPythonPackages.EmailFunctions.MailDigest object at 0x03E4AE10>, <LanymyPythonPackages.EmailFunctions.MailDigest object at 0x03E298D0>, <LanymyPythonPackages.EmailFunctions.MailDigest object at 0x03E29510>, <LanymyPythonPackages.EmailFunctions.MailDigest object at 0x03E295B0>, <LanymyPythonPackages.EmailFunctions.MailDigest object at 0x03E4AE90>, <LanymyPythonPackages.EmailFunctions.MailDigest object at 0x03E5AEF0>, <LanymyPythonPackages.EmailFunctions.MailDigest object at 0x03E4AB30>]
+2016-01-26 15:58:30,290 CopyFileClass.py[line:234] INFO Scheme01 SourceMailImap 符合条件的 邮件 摘要信息 [<LanymyPythonPackages.EmailFunctions.MailDigest object at 0x03E29570>]
+2016-01-26 15:58:31,876 CopyFileClass.py[line:241] INFO Scheme01 SourceMailImap 下载邮件 <LanymyPythonPackages.EmailFunctions.MailDigest object at 0x03E29570>
+2016-01-26 15:58:35,961 CopyFileClass.py[line:250] INFO Scheme01 SourceMailImap 任务成功执行完毕
+2016-01-26 15:58:39,952 CopyFileClass.py[line:276] INFO Scheme01 SourceMailImap 任务结束
+2016-01-26 15:58:41,384 CopyFileClass.py[line:289] INFO Scheme01 TargetFtp 任务开始
+2016-01-26 15:58:42,616 CopyFileClass.py[line:295] INFO Scheme01 TargetFtp 上传文件名 关键字 20160125
+2016-01-26 15:58:43,009 CopyFileClass.py[line:297] INFO Scheme01 TargetFtp 初始化 TargetFtp
+2016-01-26 15:58:50,895 CopyFileClass.py[line:315] INFO Scheme01 TargetFtp 登陆FTP
+2016-01-26 15:58:55,956 CopyFileClass.py[line:328] INFO Scheme01 TargetFtp 上传本地文件 \20160125\ftp.20160125.zip FTP远程目录 ./deals/dirtest/ FTP远程目录的文件ftp.20160125.zip
+2016-01-26 15:59:00,710 CopyFileClass.py[line:328] INFO Scheme01 TargetFtp 上传本地文件 \20160125\mail[115].attach.20160125.RAR FTP远程目录 ./deals/dirtest/ FTP远程目录的文件mail[115].attach.20160125.RAR
+2016-01-26 15:59:04,006 CopyFileClass.py[line:336] INFO Scheme01 TargetFtp 任务成功执行完毕
+2016-01-26 15:59:10,632 CopyFileClass.py[line:357] INFO Scheme01 TargetFtp 任务结束
+2016-01-26 15:59:12,303 CopyFileClass.py[line:369] INFO Scheme01 SendMailSmtp 任务开始
+2016-01-26 15:59:13,956 CopyFileClass.py[line:376] INFO Scheme01 SendMailSmtp 发送邮件标题 [ Auto Schedule Files Python Service 日期 20160125 的执行任务报告 ] 内容 [ Scheme01 SourceFtp 任务成功执行完毕
+
+Scheme01 SourceMailImap 任务成功执行完毕
+
+Scheme01 TargetFtp 任务成功执行完毕
+
+ ] 发送给 [ [''] ]
+2016-01-26 15:59:16,346 CopyFileClass.py[line:378] INFO Scheme01 SendMailSmtp 初始化 SendMailSmtp
+2016-01-26 15:59:38,326 CopyFileClass.py[line:389] INFO Scheme01 SendMailSmtp 任务成功执行完毕
+2016-01-26 15:59:39,199 CopyFileClass.py[line:397] INFO Scheme01 TargetFtp 任务结束
+2016-01-26 15:59:40,720 CopyFileClass.py[line:413] INFO Scheme01 任务结束
+2016-01-26 15:59:42,438 CopyFileClass.py[line:417] INFO 本次任务执行完毕
+2016-01-26 16:01:05,351 CopyFileClass.py[line:105] INFO 日期 20160125 任务开始
+2016-01-26 16:01:06,127 CopyFileClass.py[line:109] INFO Scheme01 任务开始
+2016-01-26 16:01:21,125 CopyFileClass.py[line:113] INFO Scheme01 任务 本地保存路径 
+2016-01-26 16:01:22,072 CopyFileClass.py[line:120] INFO Scheme01 SourceFtp任务开始
+2016-01-26 16:01:23,216 CopyFileClass.py[line:125] INFO Scheme01 SourceFtp FTP 文件名 20160125.zip
+2016-01-26 16:01:23,560 CopyFileClass.py[line:127] INFO Scheme01 SourceFtp 初始化FTP连接
+2016-01-26 16:01:24,410 CopyFileClass.py[line:131] INFO Scheme01 SourceFtp 登陆FTP
+2016-01-26 16:01:27,755 CopyFileClass.py[line:133] INFO Scheme01 SourceFtp 获取FTP目录信息
+2016-01-26 16:01:37,681 CopyFileClass.py[line:138] INFO Scheme01 SourceFtp FTP目录信息 目录 [ ./deals ]  文件夹 [ ['dirtest'] ] 文件 [ ['20160118.zip', '20160119.zip', '20160120.zip', '20160121.zip', '20160122.zip', '20160124.zip', '20160125.zip'] ]
+2016-01-26 16:01:37,681 CopyFileClass.py[line:141] INFO Scheme01 SourceFtp FTP上查找文件 20160125.zip
+2016-01-26 16:01:37,682 CopyFileClass.py[line:146] INFO Scheme01 SourceFtp FTP上找到文件 20160125.zip
+2016-01-26 16:01:37,683 CopyFileClass.py[line:154] INFO Scheme01 SourceFtp 开始下载文件 本地文件 \20160125\ftp.20160125.zip FTP文件 ./deals\20160125.zip
+2016-01-26 16:01:37,717 CopyFileClass.py[line:157] INFO Scheme01 SourceFtp 文件下载完毕
+2016-01-26 16:01:37,718 CopyFileClass.py[line:167] INFO Scheme01 SourceFtp 任务成功执行完毕
+2016-01-26 16:01:37,718 CopyFileClass.py[line:188] INFO Scheme01 SourceFtp任务结束
+2016-01-26 16:01:37,719 CopyFileClass.py[line:201] INFO Scheme01 SourceMailImap 任务开始
+2016-01-26 16:01:37,720 CopyFileClass.py[line:208] INFO Scheme01 SourceMailImap 邮件日期匹配 名称 20160125
+2016-01-26 16:01:37,720 CopyFileClass.py[line:211] INFO Scheme01 SourceMailImap 初始化 SourceMailImap
+2016-01-26 16:01:38,504 CopyFileClass.py[line:217] INFO Scheme01 SourceMailImap 获取邮件摘要
+2016-01-26 16:02:12,970 CopyFileClass.py[line:221] INFO Scheme01 SourceMailImap 获取到的邮件摘要 信息 [<LanymyPythonPackages.EmailFunctions.MailDigest object at 0x03E46FD0>, <LanymyPythonPackages.EmailFunctions.MailDigest object at 0x03E58750>, <LanymyPythonPackages.EmailFunctions.MailDigest object at 0x03E71C50>, <LanymyPythonPackages.EmailFunctions.MailDigest object at 0x03E58730>, <LanymyPythonPackages.EmailFunctions.MailDigest object at 0x03E58810>, <LanymyPythonPackages.EmailFunctions.MailDigest object at 0x03E586F0>, <LanymyPythonPackages.EmailFunctions.MailDigest object at 0x03E71F30>, <LanymyPythonPackages.EmailFunctions.MailDigest object at 0x03E87FD0>, <LanymyPythonPackages.EmailFunctions.MailDigest object at 0x03E87FB0>, <LanymyPythonPackages.EmailFunctions.MailDigest object at 0x03E71D50>]
+2016-01-26 16:02:12,971 CopyFileClass.py[line:234] INFO Scheme01 SourceMailImap 符合条件的 邮件 摘要信息 [<LanymyPythonPackages.EmailFunctions.MailDigest object at 0x03E58750>]
+2016-01-26 16:02:12,971 CopyFileClass.py[line:241] INFO Scheme01 SourceMailImap 下载邮件 <LanymyPythonPackages.EmailFunctions.MailDigest object at 0x03E58750>
+2016-01-26 16:02:13,259 CopyFileClass.py[line:250] INFO Scheme01 SourceMailImap 任务成功执行完毕
+2016-01-26 16:02:13,261 CopyFileClass.py[line:276] INFO Scheme01 SourceMailImap 任务结束
+2016-01-26 16:02:13,262 CopyFileClass.py[line:289] INFO Scheme01 TargetFtp 任务开始
+2016-01-26 16:02:13,263 CopyFileClass.py[line:295] INFO Scheme01 TargetFtp 上传文件名 关键字 20160125
+2016-01-26 16:02:13,264 CopyFileClass.py[line:297] INFO Scheme01 TargetFtp 初始化 TargetFtp
+2016-01-26 16:02:13,267 CopyFileClass.py[line:315] INFO Scheme01 TargetFtp 登陆FTP
+2016-01-26 16:02:13,508 CopyFileClass.py[line:328] INFO Scheme01 TargetFtp 上传本地文件 \20160125\ftp.20160125.zip FTP远程目录 ./deals/dirtest/ FTP远程目录的文件ftp.20160125.zip
+2016-01-26 16:02:13,545 CopyFileClass.py[line:328] INFO Scheme01 TargetFtp 上传本地文件 \20160125\mail[115].attach.20160125.RAR FTP远程目录 ./deals/dirtest/ FTP远程目录的文件mail[115].attach.20160125.RAR
+2016-01-26 16:02:15,059 CopyFileClass.py[line:336] INFO Scheme01 TargetFtp 任务成功执行完毕
+2016-01-26 16:02:25,895 CopyFileClass.py[line:357] INFO Scheme01 TargetFtp 任务结束
+2016-01-26 16:02:29,714 CopyFileClass.py[line:369] INFO Scheme01 SendMailSmtp 任务开始
+2016-01-26 16:02:31,402 CopyFileClass.py[line:376] INFO Scheme01 SendMailSmtp 发送邮件标题 [ Auto Schedule Files Python Service 日期 20160125 的执行任务报告 ] 内容 [ Scheme01 SourceFtp 任务成功执行完毕
+
+Scheme01 SourceMailImap 任务成功执行完毕
+
+Scheme01 TargetFtp 任务成功执行完毕
+
+ ] 发送给 [ ['', ''] ]
+2016-01-26 16:02:31,692 CopyFileClass.py[line:378] INFO Scheme01 SendMailSmtp 初始化 SendMailSmtp
+2016-01-26 16:02:55,288 CopyFileClass.py[line:389] INFO Scheme01 SendMailSmtp 任务成功执行完毕
+2016-01-26 16:02:55,790 CopyFileClass.py[line:397] INFO Scheme01 TargetFtp 任务结束
+2016-01-26 16:02:56,776 CopyFileClass.py[line:413] INFO Scheme01 任务结束
+2016-01-26 16:02:58,756 CopyFileClass.py[line:417] INFO 本次任务执行完毕

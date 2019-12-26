@@ -1,0 +1,149 @@
+2016-01-25 16:17:23,244 CopyFileClass.py[line:105] INFO 日期 20160124 任务开始
+2016-01-25 16:17:26,672 CopyFileClass.py[line:109] INFO Scheme01 任务开始
+2016-01-25 16:17:34,906 CopyFileClass.py[line:113] INFO Scheme01 任务 本地保存路径 
+2016-01-25 16:17:41,169 CopyFileClass.py[line:119] INFO Scheme01 SourceFtp任务开始
+2016-01-25 16:17:53,281 CopyFileClass.py[line:124] INFO Scheme01 SourceFtp FTP 文件名 20160124.zip
+2016-01-25 16:17:55,935 CopyFileClass.py[line:126] INFO Scheme01 SourceFtp 初始化FTP连接
+2016-01-25 16:17:59,800 CopyFileClass.py[line:129] INFO Scheme01 SourceFtp 登陆FTP
+2016-01-25 16:18:02,298 CopyFileClass.py[line:131] INFO Scheme01 SourceFtp 获取FTP目录信息
+2016-01-25 18:56:45,369 CopyFileClass.py[line:105] INFO 日期 20160124 任务开始
+2016-01-25 18:56:58,354 CopyFileClass.py[line:109] INFO Scheme01 任务开始
+2016-01-25 18:57:36,742 CopyFileClass.py[line:105] INFO 日期 20160124 任务开始
+2016-01-25 18:57:37,442 CopyFileClass.py[line:109] INFO Scheme01 任务开始
+2016-01-25 18:57:39,260 CopyFileClass.py[line:113] INFO Scheme01 任务 本地保存路径 
+2016-01-25 18:57:42,239 CopyFileClass.py[line:119] INFO Scheme01 SourceFtp任务开始
+2016-01-25 18:57:51,903 CopyFileClass.py[line:124] INFO Scheme01 SourceFtp FTP 文件名 20160124.zip
+2016-01-25 18:57:52,813 CopyFileClass.py[line:126] INFO Scheme01 SourceFtp 初始化FTP连接
+2016-01-25 18:57:54,418 CopyFileClass.py[line:129] INFO Scheme01 SourceFtp 登陆FTP
+2016-01-25 18:57:56,718 CopyFileClass.py[line:178] INFO Scheme01 SourceFtp 任务执行 出现异常 连接 或 登陆 失败!
+2016-01-25 18:58:16,919 CopyFileClass.py[line:105] INFO 日期 20160124 任务开始
+2016-01-25 18:58:17,330 CopyFileClass.py[line:109] INFO Scheme01 任务开始
+2016-01-25 18:58:17,812 CopyFileClass.py[line:113] INFO Scheme01 任务 本地保存路径 
+2016-01-25 18:58:18,789 CopyFileClass.py[line:119] INFO Scheme01 SourceFtp任务开始
+2016-01-25 18:58:19,778 CopyFileClass.py[line:124] INFO Scheme01 SourceFtp FTP 文件名 20160124.zip
+2016-01-25 18:58:20,126 CopyFileClass.py[line:126] INFO Scheme01 SourceFtp 初始化FTP连接
+2016-01-25 19:26:25,517 CopyFileClass.py[line:105] INFO 日期 20160124 任务开始
+2016-01-25 19:26:26,456 CopyFileClass.py[line:109] INFO Scheme01 任务开始
+2016-01-25 19:26:27,463 CopyFileClass.py[line:113] INFO Scheme01 任务 本地保存路径 
+2016-01-25 19:26:28,407 CopyFileClass.py[line:119] INFO Scheme01 SourceFtp任务开始
+2016-01-25 19:26:30,159 CopyFileClass.py[line:124] INFO Scheme01 SourceFtp FTP 文件名 20160124.zip
+2016-01-25 19:26:30,723 CopyFileClass.py[line:126] INFO Scheme01 SourceFtp 初始化FTP连接
+2016-01-25 19:26:42,076 CopyFileClass.py[line:129] INFO Scheme01 SourceFtp 登陆FTP
+2016-01-25 19:26:43,714 CopyFileClass.py[line:178] INFO Scheme01 SourceFtp 任务执行 出现异常 连接 或 登陆 失败!
+2016-01-25 19:26:53,372 CopyFileClass.py[line:105] INFO 日期 20160124 任务开始
+2016-01-25 19:26:53,894 CopyFileClass.py[line:109] INFO Scheme01 任务开始
+2016-01-25 19:26:54,548 CopyFileClass.py[line:113] INFO Scheme01 任务 本地保存路径 
+2016-01-25 19:26:55,511 CopyFileClass.py[line:119] INFO Scheme01 SourceFtp任务开始
+2016-01-25 19:26:57,213 CopyFileClass.py[line:124] INFO Scheme01 SourceFtp FTP 文件名 20160124.zip
+2016-01-25 19:26:58,070 CopyFileClass.py[line:126] INFO Scheme01 SourceFtp 初始化FTP连接
+2016-01-25 19:26:59,214 CopyFileClass.py[line:129] INFO Scheme01 SourceFtp 登陆FTP
+2016-01-25 19:28:04,948 CopyFileClass.py[line:105] INFO 日期 20160124 任务开始
+2016-01-25 19:28:05,575 CopyFileClass.py[line:109] INFO Scheme01 任务开始
+2016-01-25 19:28:06,314 CopyFileClass.py[line:113] INFO Scheme01 任务 本地保存路径 
+2016-01-25 19:28:07,350 CopyFileClass.py[line:119] INFO Scheme01 SourceFtp任务开始
+2016-01-25 19:28:09,156 CopyFileClass.py[line:124] INFO Scheme01 SourceFtp FTP 文件名 20160124.zip
+2016-01-25 19:28:09,647 CopyFileClass.py[line:126] INFO Scheme01 SourceFtp 初始化FTP连接
+2016-01-25 19:29:26,017 CopyFileClass.py[line:105] INFO 日期 20160124 任务开始
+2016-01-25 19:29:26,476 CopyFileClass.py[line:109] INFO Scheme01 任务开始
+2016-01-25 19:29:27,040 CopyFileClass.py[line:113] INFO Scheme01 任务 本地保存路径 
+2016-01-25 19:29:28,141 CopyFileClass.py[line:119] INFO Scheme01 SourceFtp任务开始
+2016-01-25 19:29:29,275 CopyFileClass.py[line:124] INFO Scheme01 SourceFtp FTP 文件名 20160124.zip
+2016-01-25 19:29:29,704 CopyFileClass.py[line:126] INFO Scheme01 SourceFtp 初始化FTP连接
+2016-01-25 19:29:37,463 CopyFileClass.py[line:129] INFO Scheme01 SourceFtp 登陆FTP
+2016-01-25 19:29:40,378 CopyFileClass.py[line:131] INFO Scheme01 SourceFtp 获取FTP目录信息
+2016-01-25 19:29:52,638 CopyFileClass.py[line:134] INFO Scheme01 SourceFtp FTP目录信息 <LanymyPythonPackages.FtpClass.FtpDirInfo object at 0x03D7DDB0>
+2016-01-25 19:29:53,914 CopyFileClass.py[line:137] INFO Scheme01 SourceFtp FTP上查找文件 20160124.zip
+2016-01-25 19:30:07,831 CopyFileClass.py[line:105] INFO 日期 20160124 任务开始
+2016-01-25 19:30:08,444 CopyFileClass.py[line:109] INFO Scheme01 任务开始
+2016-01-25 19:30:09,859 CopyFileClass.py[line:113] INFO Scheme01 任务 本地保存路径 
+2016-01-25 19:30:11,477 CopyFileClass.py[line:119] INFO Scheme01 SourceFtp任务开始
+2016-01-25 19:30:13,514 CopyFileClass.py[line:124] INFO Scheme01 SourceFtp FTP 文件名 20160124.zip
+2016-01-25 19:30:14,133 CopyFileClass.py[line:126] INFO Scheme01 SourceFtp 初始化FTP连接
+2016-01-25 19:30:18,310 CopyFileClass.py[line:129] INFO Scheme01 SourceFtp 登陆FTP
+2016-01-25 19:30:18,510 CopyFileClass.py[line:131] INFO Scheme01 SourceFtp 获取FTP目录信息
+2016-01-25 19:30:18,701 CopyFileClass.py[line:134] INFO Scheme01 SourceFtp FTP目录信息 <LanymyPythonPackages.FtpClass.FtpDirInfo object at 0x032A9CB0>
+2016-01-25 19:30:18,702 CopyFileClass.py[line:137] INFO Scheme01 SourceFtp FTP上查找文件 20160124.zip
+2016-01-25 19:32:01,414 CopyFileClass.py[line:105] INFO 日期 20160124 任务开始
+2016-01-25 19:32:01,416 CopyFileClass.py[line:109] INFO Scheme01 任务开始
+2016-01-25 19:32:01,417 CopyFileClass.py[line:113] INFO Scheme01 任务 本地保存路径 
+2016-01-25 19:32:01,418 CopyFileClass.py[line:119] INFO Scheme01 SourceFtp任务开始
+2016-01-25 19:32:01,419 CopyFileClass.py[line:124] INFO Scheme01 SourceFtp FTP 文件名 20160124.zip
+2016-01-25 19:32:01,420 CopyFileClass.py[line:126] INFO Scheme01 SourceFtp 初始化FTP连接
+2016-01-25 19:32:01,422 CopyFileClass.py[line:129] INFO Scheme01 SourceFtp 登陆FTP
+2016-01-25 19:32:01,692 CopyFileClass.py[line:131] INFO Scheme01 SourceFtp 获取FTP目录信息
+2016-01-25 19:32:01,939 CopyFileClass.py[line:134] INFO Scheme01 SourceFtp FTP目录信息 <LanymyPythonPackages.FtpClass.FtpDirInfo object at 0x032B9CB0>
+2016-01-25 19:32:01,941 CopyFileClass.py[line:137] INFO Scheme01 SourceFtp FTP上查找文件 20160124.zip
+2016-01-25 19:33:36,164 CopyFileClass.py[line:105] INFO 日期 20160124 任务开始
+2016-01-25 19:33:36,706 CopyFileClass.py[line:109] INFO Scheme01 任务开始
+2016-01-25 19:33:37,611 CopyFileClass.py[line:113] INFO Scheme01 任务 本地保存路径 
+2016-01-25 19:33:39,061 CopyFileClass.py[line:119] INFO Scheme01 SourceFtp任务开始
+2016-01-25 19:33:40,474 CopyFileClass.py[line:124] INFO Scheme01 SourceFtp FTP 文件名 20160124.zip
+2016-01-25 19:33:41,189 CopyFileClass.py[line:126] INFO Scheme01 SourceFtp 初始化FTP连接
+2016-01-25 19:33:42,661 CopyFileClass.py[line:129] INFO Scheme01 SourceFtp 登陆FTP
+2016-01-25 19:33:44,698 CopyFileClass.py[line:131] INFO Scheme01 SourceFtp 获取FTP目录信息
+2016-01-25 19:36:41,251 CopyFileClass.py[line:105] INFO 日期 20160124 任务开始
+2016-01-25 19:36:42,170 CopyFileClass.py[line:109] INFO Scheme01 任务开始
+2016-01-25 19:36:43,516 CopyFileClass.py[line:113] INFO Scheme01 任务 本地保存路径 
+2016-01-25 19:36:44,599 CopyFileClass.py[line:119] INFO Scheme01 SourceFtp任务开始
+2016-01-25 19:36:45,541 CopyFileClass.py[line:124] INFO Scheme01 SourceFtp FTP 文件名 20160124.zip
+2016-01-25 19:36:46,352 CopyFileClass.py[line:126] INFO Scheme01 SourceFtp 初始化FTP连接
+2016-01-25 19:36:47,150 CopyFileClass.py[line:129] INFO Scheme01 SourceFtp 登陆FTP
+2016-01-25 19:36:48,177 CopyFileClass.py[line:131] INFO Scheme01 SourceFtp 获取FTP目录信息
+2016-01-25 19:36:49,837 CopyFileClass.py[line:134] INFO Scheme01 SourceFtp FTP目录信息 <LanymyPythonPackages.FtpClass.FtpDirInfo object at 0x03289F90>
+2016-01-25 19:36:49,839 CopyFileClass.py[line:137] INFO Scheme01 SourceFtp FTP上查找文件 20160124.zip
+2016-01-25 19:36:55,293 CopyFileClass.py[line:142] INFO Scheme01 SourceFtp FTP上找到文件 20160124.zip
+2016-01-25 19:37:24,573 CopyFileClass.py[line:150] INFO Scheme01 SourceFtp 开始下载文件 本地文件 \20160124\ftp.20160124.zip FTP文件 ./deals\20160124.zip
+2016-01-25 19:37:49,006 CopyFileClass.py[line:153] INFO Scheme01 SourceFtp 文件下载完毕
+2016-01-25 19:39:27,459 CopyFileClass.py[line:105] INFO 日期 20160124 任务开始
+2016-01-25 19:39:27,461 CopyFileClass.py[line:109] INFO Scheme01 任务开始
+2016-01-25 19:39:27,462 CopyFileClass.py[line:113] INFO Scheme01 任务 本地保存路径 
+2016-01-25 19:39:27,463 CopyFileClass.py[line:119] INFO Scheme01 SourceFtp任务开始
+2016-01-25 19:39:27,464 CopyFileClass.py[line:124] INFO Scheme01 SourceFtp FTP 文件名 20160124.zip
+2016-01-25 19:39:27,465 CopyFileClass.py[line:126] INFO Scheme01 SourceFtp 初始化FTP连接
+2016-01-25 19:39:27,466 CopyFileClass.py[line:129] INFO Scheme01 SourceFtp 登陆FTP
+2016-01-25 19:39:27,653 CopyFileClass.py[line:131] INFO Scheme01 SourceFtp 获取FTP目录信息
+2016-01-25 19:39:27,849 CopyFileClass.py[line:134] INFO Scheme01 SourceFtp FTP目录信息 <LanymyPythonPackages.FtpClass.FtpDirInfo object at 0x031738B0>
+2016-01-25 19:39:27,849 CopyFileClass.py[line:137] INFO Scheme01 SourceFtp FTP上查找文件 20160124.zip
+2016-01-25 19:39:29,275 CopyFileClass.py[line:142] INFO Scheme01 SourceFtp FTP上找到文件 20160124.zip
+2016-01-25 19:39:32,224 CopyFileClass.py[line:150] INFO Scheme01 SourceFtp 开始下载文件 本地文件 \20160124\ftp.20160124.zip FTP文件 ./deals\20160124.zip
+2016-01-25 19:41:38,325 CopyFileClass.py[line:105] INFO 日期 20160124 任务开始
+2016-01-25 19:41:38,326 CopyFileClass.py[line:109] INFO Scheme01 任务开始
+2016-01-25 19:41:38,327 CopyFileClass.py[line:113] INFO Scheme01 任务 本地保存路径 
+2016-01-25 19:41:38,328 CopyFileClass.py[line:119] INFO Scheme01 SourceFtp任务开始
+2016-01-25 19:41:38,329 CopyFileClass.py[line:124] INFO Scheme01 SourceFtp FTP 文件名 20160124.zip
+2016-01-25 19:41:38,330 CopyFileClass.py[line:126] INFO Scheme01 SourceFtp 初始化FTP连接
+2016-01-25 19:41:38,331 CopyFileClass.py[line:129] INFO Scheme01 SourceFtp 登陆FTP
+2016-01-25 19:41:38,501 CopyFileClass.py[line:131] INFO Scheme01 SourceFtp 获取FTP目录信息
+2016-01-25 19:41:38,684 CopyFileClass.py[line:134] INFO Scheme01 SourceFtp FTP目录信息 <LanymyPythonPackages.FtpClass.FtpDirInfo object at 0x037597B0>
+2016-01-25 19:41:38,685 CopyFileClass.py[line:137] INFO Scheme01 SourceFtp FTP上查找文件 20160124.zip
+2016-01-25 19:41:40,005 CopyFileClass.py[line:142] INFO Scheme01 SourceFtp FTP上找到文件 20160124.zip
+2016-01-25 19:41:42,284 CopyFileClass.py[line:150] INFO Scheme01 SourceFtp 开始下载文件 本地文件 \20160124\ftp.20160124.zip FTP文件 ./deals\20160124.zip
+2016-01-25 19:42:23,167 CopyFileClass.py[line:105] INFO 日期 20160124 任务开始
+2016-01-25 19:42:23,168 CopyFileClass.py[line:109] INFO Scheme01 任务开始
+2016-01-25 19:42:23,169 CopyFileClass.py[line:113] INFO Scheme01 任务 本地保存路径 
+2016-01-25 19:42:23,170 CopyFileClass.py[line:119] INFO Scheme01 SourceFtp任务开始
+2016-01-25 19:42:23,171 CopyFileClass.py[line:124] INFO Scheme01 SourceFtp FTP 文件名 20160124.zip
+2016-01-25 19:42:23,172 CopyFileClass.py[line:126] INFO Scheme01 SourceFtp 初始化FTP连接
+2016-01-25 19:42:23,172 CopyFileClass.py[line:129] INFO Scheme01 SourceFtp 登陆FTP
+2016-01-25 19:42:23,364 CopyFileClass.py[line:131] INFO Scheme01 SourceFtp 获取FTP目录信息
+2016-01-25 19:42:23,559 CopyFileClass.py[line:134] INFO Scheme01 SourceFtp FTP目录信息 <LanymyPythonPackages.FtpClass.FtpDirInfo object at 0x033B97B0>
+2016-01-25 19:42:23,559 CopyFileClass.py[line:137] INFO Scheme01 SourceFtp FTP上查找文件 20160124.zip
+2016-01-25 19:42:24,755 CopyFileClass.py[line:142] INFO Scheme01 SourceFtp FTP上找到文件 20160124.zip
+2016-01-25 19:42:27,020 CopyFileClass.py[line:150] INFO Scheme01 SourceFtp 开始下载文件 本地文件 \20160124\ftp.20160124.zip FTP文件 ./deals\20160124.zip
+2016-01-25 19:44:08,297 CopyFileClass.py[line:105] INFO 日期 20160124 任务开始
+2016-01-25 19:44:08,298 CopyFileClass.py[line:109] INFO Scheme01 任务开始
+2016-01-25 19:44:08,299 CopyFileClass.py[line:113] INFO Scheme01 任务 本地保存路径 
+2016-01-25 19:44:08,300 CopyFileClass.py[line:119] INFO Scheme01 SourceFtp任务开始
+2016-01-25 19:44:08,301 CopyFileClass.py[line:124] INFO Scheme01 SourceFtp FTP 文件名 20160124.zip
+2016-01-25 19:44:08,302 CopyFileClass.py[line:126] INFO Scheme01 SourceFtp 初始化FTP连接
+2016-01-25 19:44:08,303 CopyFileClass.py[line:129] INFO Scheme01 SourceFtp 登陆FTP
+2016-01-25 19:44:08,497 CopyFileClass.py[line:131] INFO Scheme01 SourceFtp 获取FTP目录信息
+2016-01-25 19:44:08,724 CopyFileClass.py[line:134] INFO Scheme01 SourceFtp FTP目录信息 <LanymyPythonPackages.FtpClass.FtpDirInfo object at 0x031497B0>
+2016-01-25 19:44:08,726 CopyFileClass.py[line:137] INFO Scheme01 SourceFtp FTP上查找文件 20160124.zip
+2016-01-25 19:44:10,268 CopyFileClass.py[line:142] INFO Scheme01 SourceFtp FTP上找到文件 20160124.zip
+2016-01-25 19:44:14,212 CopyFileClass.py[line:150] INFO Scheme01 SourceFtp 开始下载文件 本地文件 \20160124\ftp.20160124.zip FTP文件 ./deals\20160124.zip
+2016-01-25 19:44:20,129 CopyFileClass.py[line:153] INFO Scheme01 SourceFtp 文件下载完毕
+2016-01-25 19:44:22,437 CopyFileClass.py[line:163] INFO Scheme01 SourceFtp 任务成功执行完毕
+2016-01-25 19:44:26,138 CopyFileClass.py[line:183] INFO Scheme01 SourceFtp任务结束
+2016-01-25 19:44:29,444 CopyFileClass.py[line:200] INFO Scheme01 任务结束
+2016-01-25 19:44:33,097 CopyFileClass.py[line:204] INFO 本次任务执行完毕
